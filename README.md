@@ -41,7 +41,7 @@ Base44, JavaScript, HTML/CSS, UX prototyping
 
 
 ## How to Use
-Visit [deployment link] and play!
+Visit [(https://math-quest-kids-math-adventure-066070a9.base44.app)] and play!
 
 ## What I Learned
 - Building for outreach and accessibility
