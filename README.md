@@ -6,7 +6,7 @@ I’m Javier Naranjo, a Computer Science student at Arizona State University spe
 
 ### Projects
 
-#### MotiMotion (p5.js)------------------------------------------------------
+#### MotiMotion (p5.js)
 An interactive educational and rehabilitation app featuring bilingual activities with a focus on accessible, engaging UI. 
 
 Educational and rehab app built in p5.js for ASU.  
@@ -25,8 +25,8 @@ Open in editor.p5js.org, or copy to your local p5 project.
 - User input and save logic
 - Dynamic bilingual UI design
 
-----------------------------------------------------------------------------
-#### Math Quest Kids-------------------------------------------------------
+
+#### Math Quest Kids
 A gamified math learning web app focused on enhancing engagement for young learners. Built with Base44 for ASU outreach.
 
 Gamified math learning adventure app for young students, built with Base44 and deployed online.
@@ -46,7 +46,7 @@ Visit [deployment link] and play!
 ## What I Learned
 - Building for outreach and accessibility
 - Gamification techniques for learning
-------------------------------------------------------------------------------
+
 ### Tech Stack
 Java, JavaScript (p5.js), C, Git, VSCode, Spanish/English bilingual, UX/UI design, Google Drive, collaborative tools.
 
